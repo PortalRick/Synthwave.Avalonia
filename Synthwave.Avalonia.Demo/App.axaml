@@ -1,6 +1,6 @@
 <Application xmlns="https://github.com/avaloniaui"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="using:Synthwave.Avalonia"
+             xmlns:sw="using:Synthwave.Avalonia"
              xmlns:demo="clr-namespace:Synthwave.Avalonia.Demo"
              x:Class="Synthwave.Avalonia.Demo.App"
              RequestedThemeVariant="Default">
@@ -11,6 +11,6 @@
     </Application.DataTemplates>
 
     <Application.Styles>
-        <FluentTheme />
+        <sw:SimpleTheme />
     </Application.Styles>
 </Application>

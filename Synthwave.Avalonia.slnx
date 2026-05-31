@@ -1,0 +1,11 @@
+﻿<Solution>
+  <Project Path="Synthwave.Avalonia.Android/Synthwave.Avalonia.Android.csproj">
+    <Deploy />
+  </Project>
+  <Project Path="Synthwave.Avalonia.Browser/Synthwave.Avalonia.Browser.csproj" />
+  <Project Path="Synthwave.Avalonia.Desktop/Synthwave.Avalonia.Desktop.csproj" />
+  <Project Path="Synthwave.Avalonia.iOS/Synthwave.Avalonia.iOS.csproj">
+    <Deploy />
+  </Project>
+  <Project Path="Synthwave.Avalonia/Synthwave.Avalonia.csproj" />
+</Solution>

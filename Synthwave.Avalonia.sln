@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Synthwave.Avalonia.Demo", "Synthwave.Avalonia.Demo\Synthwave.Avalonia.Demo.csproj", "{24509F5D-B5E3-4B51-BB51-9B664414739A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Synthwave.Avalonia.Demo.Desktop", "Synthwave.Avalonia.Demo.Desktop\Synthwave.Avalonia.Demo.Desktop.csproj", "{FEDB620A-1381-4472-B0E4-1887BB51A13A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Synthwave.Avalonia.Demo.Browser", "Synthwave.Avalonia.Demo.Browser\Synthwave.Avalonia.Demo.Browser.csproj", "{46F377CF-6774-4829-96E2-441C5B3B0970}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Synthwave.Avalonia", "Synthwave.Avalonia\Synthwave.Avalonia.csproj", "{895CDB00-7FDB-4AFD-80A6-D4E2219961B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24509F5D-B5E3-4B51-BB51-9B664414739A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24509F5D-B5E3-4B51-BB51-9B664414739A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24509F5D-B5E3-4B51-BB51-9B664414739A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24509F5D-B5E3-4B51-BB51-9B664414739A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEDB620A-1381-4472-B0E4-1887BB51A13A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEDB620A-1381-4472-B0E4-1887BB51A13A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEDB620A-1381-4472-B0E4-1887BB51A13A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEDB620A-1381-4472-B0E4-1887BB51A13A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46F377CF-6774-4829-96E2-441C5B3B0970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46F377CF-6774-4829-96E2-441C5B3B0970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46F377CF-6774-4829-96E2-441C5B3B0970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46F377CF-6774-4829-96E2-441C5B3B0970}.Release|Any CPU.Build.0 = Release|Any CPU
+		{895CDB00-7FDB-4AFD-80A6-D4E2219961B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{895CDB00-7FDB-4AFD-80A6-D4E2219961B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{895CDB00-7FDB-4AFD-80A6-D4E2219961B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{895CDB00-7FDB-4AFD-80A6-D4E2219961B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+﻿<Styles x:Class="Synthwave.Avalonia.SimpleTheme"
+        xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Styles.Resources>
+    <ResourceDictionary>
+      <ResourceDictionary.MergedDictionaries>
+        <MergeResourceInclude Source="avares://Synthwave.Avalonia/Accents/Base.xaml" />
+      </ResourceDictionary.MergedDictionaries>
+    </ResourceDictionary>
+  </Styles.Resources>
+
+  <StyleInclude Source="avares://Synthwave.Avalonia/Controls/SimpleControls.xaml" />
+</Styles>
